@@ -1,29 +1,29 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=+Bem-vindo+ao+meu+perfil+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F9&center=true&vCenter=true&random=false&width=524&lines=+Bem-vindo+ao+meu+perfil+" alt="Typing SVG">
   </a>
 </div>
 
 #
 
 
-<h3 style="font-family: 'Georgia', Times New Roman;"> Sobre mim </h3> 
-
-*Olá! eu sou a Carolina, atualmente curso Análise e Desenvolvimento de Sistemas, e tenho interesse em desenvolvimento front-end. Atualmente utilizo MySQL, JavaScript, Css, Python e C. Busco meu primeiro estágio na área de tecnologia.*
-
-
-<hr>
+<h3 style="font-family: 'Georgia', Times New Roman;color:purple "> Olá, sou a Carolina!</h3> 
+*Atualmente estou no segundo semestre do curso de Análise e Desenvolvimento de Sistemas, tenho interesse em desenvolvimento front-end. Utilizo MySQL, JavaScript, Css, Python e C. Busco meu primeiro estágio na área de tecnologia.*
 
 
-<h3 align="left" style="font-family: 'Georgia', Times New Roman;">Conecte-se comigo !</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:ayumicarol553@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/carolina-ayumi-718280435/)
 
 
-<hr>
-</hr>
-<h3 align="left" style="font-family: 'Georgia', Times New Roman;">Stack</h3>
+
+<h3 align="left" style="font-family: 'Georgia', Times New Roman; color:purple ">Conecte-se comigo !</h3>
+
+[![E-mail](https://img.shields.io/badge/Gmail-470047?style=for-the-badge&logo=Gmail&logoColor=FAF9F6)
+](mailto:ayumicarol553@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-470047?style=for-the-badge&logo=LinkedIn&logoColor=FAF9F6
+)](https://www.linkedin.com/in/carolina-ayumi-718280435/)
+
+
+
+<h3 align="left" style="font-family: 'Georgia', Times New Roman; color:purple">Tecnologias Utilizadas </h3>
 <img
     align="left"
     alt="Vercel"
