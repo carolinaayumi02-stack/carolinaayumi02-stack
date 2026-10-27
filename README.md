@@ -9,7 +9,7 @@
 
 <h3 style="font-family: 'Georgia', Times New Roman;"> Sobre mim </h3> 
 
-*Me chamo Carolina Ayumi, atualmente curso Análise e Desenvolvimento de Sistemas*
+*Olá! eu sou a Carolina, atualmente curso Análise e Desenvolvimento de Sistemas, e tenho interesse em desenvolvimento front-end. Atualmente utilizo MySQL, JavaScript, Css, Python e C. Busco meu primeiro estágio na área de tecnologia.*
 
 
 <hr>
@@ -20,7 +20,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:ayumicarol553@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/carolina-ayumi-718280435/)
 
-</br>
+
 <hr>
 </hr>
 <h3 align="left" style="font-family: 'Georgia', Times New Roman;">Stack</h3>
@@ -58,6 +58,15 @@
     style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
+
+  <img 
+  align="left"
+    alt="Vercel"
+    title="Vercel"
+    width="30px"
+    style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+          
   
           
           
