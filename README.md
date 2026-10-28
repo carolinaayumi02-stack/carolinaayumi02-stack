@@ -9,7 +9,10 @@
 
 <h3 style="font-family: 'Georgia', Times New Roman;color:purple "> Olá, sou a Carolina!</h3> 
 
-*Atualmente estou no segundo semestre do curso de Análise e Desenvolvimento de Sistemas, tenho interesse em desenvolvimento front-end. Utilizo MySQL, JavaScript, Css, Python e C. Busco meu primeiro estágio na área de tecnologia.*
+📔- Estudante do segundo semestre do curso de Análise e Desenvolvimento de Sistemas
+💻-Tenho interesse em atuar com desenvolvimento front-end.
+👾-Utilizo MySQL, JavaScript, Css, HTML, Python e C.
+💼-Busco meu primeiro estágio na área de tecnologia.
 
 
 
